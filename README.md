@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jiayinnteo
-- 👀 I’m interested in arts, travel, photography, IT & sports
+- 👀 I’m interested in arts, design, travel, photography, IT technology & sports
 - 🌱 I’m currently learning Generative Artificial Intelligence 
 - 💞️ I’m looking to collaborate on generative AI — especially those focused on real-world impact, innovation, or improving everyday experiences through smart technology
 - 📫 How to reach me 2512jiayin@gmail.com
